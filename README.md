@@ -1,9 +1,11 @@
 # Abel Montiel Aguilar CV
 
-¡Hola! 👋 Bienvenido a mi repositorio de CV. Aquí encontrarás información detallada sobre mi experiencia, habilidades y proyectos.
+¡Hola! 👋 Bienvenido al repositorio donde puedes visualizar mi CV:
+Aquí encontrarás información detallada sobre mi experiencia laboral.
 
 ## Acerca de mí
-Soy Abel Montiel Aguilar, un Cientifio de Datos con un interesante background enexperiencia en Areas Juridicas. Me apasionan tanto los datos como la gestión emocional y estoy comprometido con la busqueda de mi primera oportunidad laboral.
+Soy Abel Montiel Aguilar, un Cientifio de Datos con un interesante background en Areas Juridicas. 
+Me apasionan tanto los datos como la gestión emocional y estoy comprometido con la busqueda de mi primera oportunidad laboral.
 
 ## Cómo ver mi CV
 Puedes ver mi CV en formato PDF haciendo clic en el siguiente enlace:
