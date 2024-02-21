@@ -10,7 +10,8 @@ Me apasionan tanto los datos como la gestión emocional y estoy comprometido con
 ## Cómo ver mi CV
 Puedes ver mi CV en formato PDF haciendo clic en el siguiente enlace:
 
-[Ver el CV en formato PDF](https://view-pdf.github.dev/MontielAguilar/0_CV/blob/main/Abel%20Montiel%20Aguilar%20CV%202024%20ESPA%C3%91OL.pdf)
+[Ver el CV en formato PDF](https://github.com/MontielAguilar/0_CV/blob/main/Abel%20Montiel%20Aguilar%20CV%202024%20ESPA%C3%91OL.pdf
+)
 
 ## Contacto
 Si deseas contactarme para oportunidades laborales o cualquier otra consulta, no dudes en enviarme un correo electrónico abelmontielaguilar@gmail.com o conectarte conmigo a través de mis redes sociales.
